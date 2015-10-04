@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:filesaver',
-  summary: 'FileSaver.js library',
+  summary: 'TESTING_DO_NOT_USE  FileSaver.js library',
   version: '1.0.0',
   git: ' /* Fill me in! */ '
 });
